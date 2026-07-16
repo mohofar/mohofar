@@ -1,90 +1,65 @@
-# Hi, I'm Morteza Homayounfar 👋
 
-**AI Scientist | PhD Candidate at TU Delft & Erasmus MC**
+### AI Scientist | Medical Imaging & Generative Modeling
 
-I develop AI methods for medical imaging with a focus on **computer vision, 3D anatomical modeling, and clinical AI applications**.
+PhD Researcher at **TU Delft & Erasmus MC**, Netherlands.
 
-My research interests include:
-
-- 🧠 Medical Image Analysis
-- 🦴 3D Shape Modeling and Statistical Shape Models
-- 🔬 Medical Image Segmentation
-- 🤖 Vision Foundation Models
-- 🧬 Generative AI for anatomical modeling
-- 📈 Longitudinal modeling of human development
-
-Currently, my PhD research focuses on **AI-driven analysis of pediatric hip development using MRI, 3D shape modeling, and generative approaches**.
+I work on **3D computer vision, geometric deep learning, and generative AI** for medical imaging, with a focus on anatomical modeling, foundation models, and clinical AI applications.
 
 ---
 
-## 🔬 Featured Research
+## 🔬 Research Interests
+
+🦴 3D Medical Imaging & Computational Anatomy  
+🤖 Generative Models (Flow Matching, VAEs)  
+🧠 Vision Foundation Models (SAM/SAM2)  
+📐 Shape Analysis, Point Clouds & Mesh Learning  
+⚡ Efficient AI (Pruning, Distillation, Deployment)
+
+---
+
+## 🚀 Featured Projects
 
 ### 🦴 PedVision
-**Age-agnostic pediatric bone segmentation using vision foundation models**
+Foundation-model-based, annotation-efficient pediatric bone segmentation pipeline.
 
-A human-in-the-loop framework for robust pediatric bone segmentation across different ages and imaging domains.
+→ SAM/SAM2 adaptation • Human-in-the-loop learning • Medical image segmentation
 
-Repository:
-[PedVision](https://github.com/mohofar/PedVision)
+### 🦴 Hip Shape Modeling
+Generative and geometric deep learning for longitudinal modeling of pediatric hip development.
 
----
+→ 3D shape analysis • Point clouds • Flow matching • Computational anatomy
 
-### 🦴 Hip Shape Modeling *(in development)*
-
-Deep learning and statistical shape modeling approaches for understanding longitudinal development of the pediatric hip from MRI.
-
-Topics:
-- Femur and pelvis modeling
-- 3D mesh analysis
-- Growth patterns
-- Hip dysplasia-related measurements
 
 ---
 
-### 🌐 Zorgence
+## 🛠️ Tech Stack
 
-Federated clinical AI evaluation platform for safe and reliable validation of AI models across healthcare institutions.
-
----
-
-## 🛠️ Technical Skills
-
-### Programming
-Python • C++ • MATLAB • R
-
-### Deep Learning
-PyTorch • MONAI • nnU-Net • TensorFlow
-
-### Medical Imaging & 3D
-SimpleITK • OpenCV • Open3D • PyVista • VTK
-
-### AI Research
-Computer Vision • Foundation Models • Generative Models • Statistical Shape Modeling
+**AI:** PyTorch · MONAI · TensorFlow · VAEs · Flow Matching · SAM/SAM2 · JEPA  
+**3D Vision:** PointNet++ · FoldingNet · SSM · Mesh Processing · Registration  
+**Engineering:** Python · C++ · Docker · ONNX · TensorRT · MLflow
 
 ---
 
 ## 📚 Selected Publications
 
-- **PedVision: Integrating Human-in-the-Loop and Visual Foundation Models for Age-Agnostic Segmentation of Pediatric Hand Bones**
-- **Beta-Rank: A new filter pruning method for medical image analysis on mobile devices**
-- **CovidCTNet: COVID-19 CT image classification framework**
+- **PedVision:** Annotation-free Bone Segmentation using Foundation Models — *Biomedical Signal Processing and Control, 2026*
+- **CovidCTNet:** Deep Learning Framework for COVID-19 CT Analysis — *NPJ Digital Medicine, 2021*
+- **Beta-Rank:** Efficient Neural Network Compression for Medical AI
 
-More:
-[Google Scholar](YOUR_GOOGLE_SCHOLAR_LINK)
-
----
-
-## 🌍 Connect with me
-
-- 🌐 Website: https://mohofar.github.io
-- 💼 LinkedIn: YOUR_LINKEDIN
-- 📚 Google Scholar: YOUR_LINK
-- 📧 Email: m.homayounfar@tudelft.nl
+More: [Google Scholar](https://scholar.google.co.uk/citations?user=JLIBa2AAAAAJ&hl=en)
 
 ---
 
-⭐ Interested in medical AI, 3D vision, and clinical applications of deep learning? Feel free to connect.
-## 📊 GitHub Stats
+## 📊 GitHub Overview
+
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohofar&theme=github" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohofar&theme=github"/>
 </p>
+
+---
+
+## 📫 Connect
+
+🌐 https://mohofar.github.io  
+📧 m.homayounfar@tudelft.nl  
+💼 [LinkedIn](www.linkedin.com/in/morteza-homayounfar-mohofar) 
