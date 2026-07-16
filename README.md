@@ -86,6 +86,12 @@ More:
 ⭐ Interested in medical AI, 3D vision, and clinical applications of deep learning? Feel free to connect.
 ## 📊 GitHub Stats
 
-![Morteza's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohofar&show_icons=true)
+## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohofar&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohofar&show_icons=true&hide_border=true&count_private=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohofar&layout=compact&hide_border=true" />
+</p>
